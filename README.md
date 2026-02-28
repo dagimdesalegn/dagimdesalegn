@@ -19,10 +19,6 @@
 
 ### 🧑‍💻 About Me
 
-<div align="center">
-  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" alt="coding gif"/>
-</div>
-
 I'm a 4th-year **Computer Science student at Jimma University**, passionate about building robust digital solutions from the **frontend** to the **backend**, and even into the world of **ethical hacking**.
 
 *   🌍 **From:** Addis Ababa, Ethiopia
