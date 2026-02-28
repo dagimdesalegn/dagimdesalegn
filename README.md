@@ -127,26 +127,13 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagimdesalegn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF69B4&text_color=ffffff" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimdesalegn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="40%"/>
-</p>
+ 
 
----
-
-### 🛤️ My Journey
-
-| Year | Milestone | Description |
-|------|-----------|-------------|
-| **2010 (EC)** | 🚀 Root Access | First contact with digital electronics in Addis Ababa. Curiosity sparked. |
-| **2016 (EC)** | 📚 University Boot | Started CS at Jimma University. Mastered core CS fundamentals. |
-| **2017 (EC)** | 🤖 AI Integration | Backend developer at Mint Innovation. Built multilingual AI chatbot with Gemini API. |
-| **2018 (EC)** | 📱 Telegram Mastery | Developed full-stack Telegram Mini Apps with secure and scalable solutions. |
-
----
 
 ### 📬 Connect With Me
 
