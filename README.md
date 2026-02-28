@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/93194738?v=4" width="130" height="130" style="border-radius: 50%; border: 3px solid #8A2BE2; padding: 5px;" alt="Dagim Desalegn"/>
+  <img src="https://raw.githubusercontent.com/dagimdesalegn/dagimdesalegn/main/profile-image.png" width="140" height="140" style="border-radius: 50%; border: 4px solid #8A2BE2; padding: 5px;" alt="Dagim Desalegn"/>
   <br/>
   Hi 👋, I'm Dagim Desalegn
 </h1>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://dagimdesalegn.github.io/Dagi/"><img src="https://img.shields.io/badge/Portfolio-DAGIM.DEV-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/dagimdesalegn"><img src="https://img.shields.io/github/followers/dagimdesalegn?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/></a>
+  <a href="https://github.com/dagimdesalegn"><img src="https://img.shields.io/github/followers/dagimdesalegn?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub followers"/></a>
   <a href="https://www.linkedin.com/in/dagimdesalegn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://t.me/dagimdesalegn"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qj5yjuxf7ud4kzcqac8 Приступ&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" style="border-radius: 15px;" alt="coding gif"/>
 
 I'm a 4th-year **Computer Science student at Jimma University**, passionate about building robust digital solutions from the **frontend** to the **backend**, and even into the world of **ethical hacking**.
 
@@ -33,35 +33,41 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
 
 ### 🛠️ Tech Stack
 
-#### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+#### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
 
-#### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+#### 💻 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-#### **Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 ---
 
@@ -69,12 +75,13 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" style="padding: 15px;">
       <h3 align="center">🎓 ABJ Tutorial Platform</h3>
       <div align="center">
         <p>
-          <strong>Full-stack Telegram Mini App</strong> - A complete platform for Jimma University with user registration, content delivery, and secure payment integration built into Telegram.
-          <br><br>
+          <strong>Full-stack Telegram Mini App</strong> - Complete platform for Jimma University with user registration, content delivery, and secure payment integration built into Telegram.
+        </p>
+        <p>
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -82,12 +89,13 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="padding: 15px;">
       <h3 align="center">🤖 Mint Innovation Portal</h3>
       <div align="center">
         <p>
-          <strong>AI-Powered Backend System</strong> - Built a multilingual chatbot using Google's Gemini AI for an innovator registration and funding platform.
-          <br><br>
+          <strong>AI-Powered Backend System</strong> - Multilingual chatbot using Google's Gemini AI for innovator registration and funding platform.
+        </p>
+        <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -97,24 +105,26 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" style="padding: 15px;">
       <h3 align="center">🛒 Cooperative Store System</h3>
       <div align="center">
         <p>
           <strong>Complete E-commerce Solution</strong> - Platform for local cooperatives with inventory management, order processing, and analytics dashboard.
-          <br><br>
+        </p>
+        <p>
           <img src="https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" style="padding: 15px;">
       <h3 align="center">🔐 Port Scanner & Analyzer</h3>
       <div align="center">
         <p>
           <strong>Ethical Hacking Tool</strong> - Network security analysis tool for port scanning and vulnerability assessment with Flask reporting.
-          <br><br>
+        </p>
+        <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Scapy-8A2BE2?style=flat-square"/>
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
