@@ -140,6 +140,6 @@ I'm a 4th-year **Computer Science student at Jimma University**, passionate abou
 ### 📊 GitHub Statistics
 
 <p align="center">
-  username=dagimdesalegn&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
