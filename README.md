@@ -71,58 +71,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" style="margin: 2px;" alt="Bash"/>
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 0 10px;">
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🎓 ABJ Tutorial Platform</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);"><strong>Full-stack Telegram Mini App</strong> - Complete platform for Jimma University with user registration, content delivery, and secure payment integration.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" style="margin: 2px;" height="22"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🤖 Mint Innovation Portal</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);"><strong>AI-Powered Backend System</strong> - Multilingual chatbot using Google's Gemini AI for innovator registration and funding platform.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="margin: 2px;" height="22"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🛒 Cooperative Store System</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);"><strong>Complete E-commerce Solution</strong> - Platform for local cooperatives with inventory management, order processing, and analytics dashboard.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" style="margin: 2px;" height="22"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🔐 Port Scanner & Analyzer</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);"><strong>Ethical Hacking Tool</strong> - Network security analysis tool for port scanning and vulnerability assessment with Flask reporting.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" style="margin: 2px;" height="22"/>
-    <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=security&logoColor=white" style="margin: 2px;" height="22"/>
-  </p>
-</div>
-
-</div>
-
----
-
+    
 ### 📊 GitHub Stats
 
 <p align="center">
