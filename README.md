@@ -71,11 +71,67 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" style="margin: 2px;" alt="Bash"/>
 </p>
 
-    
+---
+
+### 🚀 Featured Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 0 10px;">
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
+  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🎓 ABJ Tutorial Platform</h3>
+  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">Full-stack Telegram Mini App for Jimma University with registration, content delivery & payments.</p>
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
+  </p>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
+  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🤖 Mint Innovation Portal</h3>
+  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">AI chatbot using Google Gemini for innovator registration and funding platform.</p>
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
+  </p>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
+  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🛒 Cooperative Store</h3>
+  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">E-commerce platform with inventory management and analytics dashboard.</p>
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+  </p>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
+  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🔐 Port Scanner</h3>
+  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">Network security analysis tool with Flask reporting.</p>
+  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
+  </p>
+</div>
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="100%" style="max-width: 500px; height: auto; border-radius: 20px;" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dagimdesalegn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF69B4&text_color=ffffff" width="100%" style="max-width: 400px; border-radius: 20px; margin: 5px;" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="100%" style="max-width: 400px; border-radius: 20px; margin: 5px;" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimdesalegn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="100%" style="max-width: 350px; border-radius: 20px; margin: 5px;" alt="Top Languages"/>
 </p>
 
 ---
