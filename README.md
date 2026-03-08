@@ -1,152 +1,284 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/dagimdesalegn/dagimdesalegn/main/profile-image.png" width="140" height="140" style="max-width: 100%; height: auto; border-radius: 50%; border: 4px solid #8A2BE2; padding: 5px; box-shadow: 0 10px 30px rgba(138, 43, 226, 0.3);" alt="Dagim Desalegn"/>
-  <br/>
-  <span style="font-size: clamp(1.5rem, 5vw, 2.5rem); font-weight: 600; background: linear-gradient(45deg, #8A2BE2, #FF69B4); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi 👋, I'm Dagim Desalegn</span>
-</h1>
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/dagimdesalegn/dagimdesalegn/main/profile-image.png" width="150" height="150" style="border-radius: 50%;" alt="Dagim Desalegn"/>
 
-<h3 align="center" style="font-size: clamp(0.9rem, 3vw, 1.2rem); color: #666; padding: 0 10px;">
-  <span style="border-bottom: 3px solid #8A2BE2; padding-bottom: 5px;">Full-Stack & Mobile Developer | CS Student @ Jimma University</span>
-</h3>
+# Hi there, I'm Dagim Desalegn 👋
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <a href="https://dagimdesalegn.github.io/Dagi/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" style="margin: 2px;" alt="Portfolio"/></a>
-  <a href="https://github.com/dagimdesalegn"><img src="https://img.shields.io/github/followers/dagimdesalegn?label=Followers&style=for-the-badge&logo=github&color=blue&labelColor=black" style="margin: 2px;" alt="GitHub followers"/></a>
-  <a href="https://www.linkedin.com/in/dagimdesalegn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" style="margin: 2px;" alt="LinkedIn"/></a>
-  <a href="https://t.me/dagimdesalegn"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" style="margin: 2px;" alt="Telegram"/></a>
-</p>
+### Full-Stack & Mobile Developer | CS Student @ Jimma University
 
----
+<br/>
 
-### 🧑‍💻 About Me
-
-<div style="font-size: clamp(0.9rem, 2.5vw, 1rem); line-height: 1.6; padding: 0 10px;">
-  <p>I'm a 4th-year <strong>Computer Science student at Jimma University</strong>, passionate about building robust digital solutions from the <strong>frontend</strong> to the <strong>backend</strong>, and even into the world of <strong>ethical hacking</strong>.</p>
-
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin: 10px 0;">🌍 <strong>From:</strong> Addis Ababa, Ethiopia</li>
-    <li style="margin: 10px 0;">🎓 <strong>Currently:</strong> 4th Year CS @ Jimma University</li>
-    <li style="margin: 10px 0;">💼 <strong>Building:</strong> Full-stack web apps, Telegram Mini Apps, and React Native mobile apps</li>
-    <li style="margin: 10px 0;">🌱 <strong>Exploring:</strong> Advanced System Design, Cloud Architecture, and Cybersecurity</li>
-    <li style="margin: 10px 0;">⚡ <strong>My Motto:</strong> <em>"I love problems. I know how to solve them."</em></li>
-  </ul>
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-#### 📱 Mobile Development
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 2px; height: auto; max-width: 100%;" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin: 2px;" alt="Android"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="margin: 2px;" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin: 2px;" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="margin: 2px;" alt="Swift"/>
-</p>
-
-#### 💻 Web Development
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 2px;" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 2px;" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin: 2px;" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin: 2px;" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 2px;" alt="Django"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin: 2px;" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" style="margin: 2px;" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 2px;" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 2px;" alt="CSS3"/>
-</p>
-
-#### 🗄️ Databases & Tools
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 2px;" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 2px;" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 2px;" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="margin: 2px;" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 2px;" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 2px;" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 2px;" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin: 2px;" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 2px;" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" style="margin: 2px;" alt="Bash"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; padding: 0 10px;">
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🎓 ABJ Tutorial Platform</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">Full-stack Telegram Mini App for Jimma University with registration, content delivery & payments.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🤖 Mint Innovation Portal</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">AI chatbot using Google Gemini for innovator registration and funding platform.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🛒 Cooperative Store</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">E-commerce platform with inventory management and analytics dashboard.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-  </p>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 20px; padding: 20px; box-shadow: 0 10px 20px rgba(138, 43, 226, 0.1);">
-  <h3 align="center" style="margin: 0 0 10px 0; font-size: clamp(1.1rem, 3vw, 1.3rem);">🔐 Port Scanner</h3>
-  <p align="center" style="font-size: clamp(0.85rem, 2.5vw, 0.95rem);">Network security analysis tool with Flask reporting.</p>
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="20"/>
-  </p>
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8A2BE2?style=for-the-badge&logoColor=white)](https://dagimdesalegn.github.io/Dagi/)
+[![GitHub followers](https://img.shields.io/github/followers/dagimdesalegn?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/dagimdesalegn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagimdesalegn/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dagimdesalegn)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagimdesalegn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF69B4&text_color=ffffff" width="100%" style="max-width: 400px; border-radius: 20px; margin: 5px;" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="100%" style="max-width: 400px; border-radius: 20px; margin: 5px;" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimdesalegn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" width="100%" style="max-width: 350px; border-radius: 20px; margin: 5px;" alt="Top Languages"/>
-</p>
+```text
+🌍  Based in Addis Ababa, Ethiopia
+🎓  4th Year Computer Science @ Jimma University
+💼  Building Full-Stack Web Apps, Telegram Mini Apps & React Native Mobile Apps
+🌱  Exploring Advanced System Design, Cloud Architecture & Cybersecurity
+⚡  Motto: "I love problems. I know how to solve them."
+```
 
 ---
 
-### 📬 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <a href="mailto:dagid6944@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" style="margin: 2px;" alt="Gmail"/></a>
-  <a href="https://dagimdesalegn.github.io/Dagi/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black" style="margin: 2px;" alt="Portfolio"/></a>
-  <a href="https://t.me/dagimdesalegn"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" style="margin: 2px;" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/dagimdesalegn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" style="margin: 2px;" alt="LinkedIn"/></a>
-</p>
+### 📱 Mobile Development
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+</a>
+<br><strong>React Native</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
+</a>
+<br><strong>Android</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+</a>
+<br><strong>Kotlin</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+</a>
+<br><strong>Flutter</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+</a>
+<br><strong>Swift</strong>
+</td>
+</tr>
+</table>
+</div>
+
+### 💻 Web Development
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+</a>
+<br><strong>React</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+</a>
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+</a>
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+</a>
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+</a>
+<br><strong>Django</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+</a>
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+</a>
+<br><strong>Vue.js</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+</a>
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+</a>
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+</a>
+<br><strong>JavaScript</strong>
+</td>
+</tr>
+</table>
+</div>
+
+### 🗄️ Databases & DevOps
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+</a>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+</a>
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+</a>
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+</a>
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+</a>
+<br><strong>Docker</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+</a>
+<br><strong>AWS</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</a>
+<br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</a>
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+</a>
+<br><strong>Linux</strong>
+</td>
+<td align="center" width="96">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+</a>
+<br><strong>Bash</strong>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dagimdesalegn&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" height="25"/>
-</p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| 🎓 | **ABJ Tutorial Platform** | Full-stack Telegram Mini App for Jimma University — registration, content delivery & payments | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| 🤖 | **Mint Innovation Portal** | AI chatbot using Google Gemini for innovator registration & funding platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| 🛒 | **Cooperative Store** | E-commerce platform with inventory management & analytics dashboard | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🔐 | **Port Scanner** | Network security analysis tool with Flask reporting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dagimdesalegn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=FF69B4&text_color=ffffff&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="49%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimdesalegn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&langs_count=8" width="40%" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dagimdesalegn&bg_color=0d1117&color=8A2BE2&line=FF69B4&point=ffffff&area_color=8A2BE2&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dagimdesalegn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagid6944@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dagimdesalegn.github.io/Dagi/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dagimdesalegn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagimdesalegn/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dagimdesalegn&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+⭐ **If you like my work, consider giving a star!** ⭐
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
+
+</div>
