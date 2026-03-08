@@ -4,7 +4,7 @@
 
 # Hi there, I'm Dagim Desalegn 👋
 
-### Full-Stack & Mobile Developer | CS Student @ Jimma University
+### Full-Stack & Mobile Developer 
 
 <br/>
 
@@ -214,7 +214,15 @@
 
 ---
 
-## � Let's Connect
+## 📊 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagimdesalegn&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=666666" width="70%" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
