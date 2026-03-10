@@ -18,8 +18,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```text
 🌍  Based in Addis Ababa, Ethiopia
 🎓  4th Year Computer Science @ Jimma University
 💼  Building Full-Stack Web Apps, Telegram Mini Apps & React Native Mobile Apps
