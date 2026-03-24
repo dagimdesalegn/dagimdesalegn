@@ -1,7 +1,3 @@
-<div align="center">
-  
-# <img src="https://raw.githubusercontent.com/dagimdesalegn/dagimdesalegn/main/profile-image.png" width="150" height="150" style="border-radius: 50%;" alt="Dagim Desalegn"/>
-
 # Hi there, I'm Dagim Desalegn 👋
 
 ### Full-Stack & Mobile App Developer 
